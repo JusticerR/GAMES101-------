@@ -69,7 +69,7 @@ desktop.ini
 *.jpeg
 *.bmp
 *.tiff
-# explicitly DO NOT ignore the images folder so your showcase pictures are tracked
-!/images/
-!/images/*.png
-!/images/*.jpg
+# explicitly DO NOT ignore the image folder so your showcase pictures are tracked
+!/image/
+!/image/*.png
+!/image/*.jpg
